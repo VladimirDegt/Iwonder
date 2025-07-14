@@ -1,4 +1,4 @@
-# YouKnow / Iwonder
+# Iwonda
 
 An application for discovering interesting facts, quotes, and educational content.  
 This application contains both the **frontend** (React Native + Expo) and **backend** (NestJS) parts.
@@ -29,7 +29,7 @@ This application contains both the **frontend** (React Native + Expo) and **back
 
 ## Project Overview
 
-**YouKnow / Iwonder** is a mobile and web application that provides users with various categories of content:
+**Iwonda** is a mobile and web application that provides users with various categories of content:
 
 - Fun facts
 - Science facts
