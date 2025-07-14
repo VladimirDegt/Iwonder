@@ -1,8 +1,8 @@
 # YouKnow / Iwonder
 
-A cross-platform application for discovering interesting facts, quotes, and educational content.  
-This repository contains both the **frontend** (React Native + Expo) and **backend** (NestJS) parts.
-
+An application for discovering interesting facts, quotes, and educational content.  
+This application contains both the **frontend** (React Native + Expo) and **backend** (NestJS) parts.
+[App store](https://apps.apple.com/us/app/iwonda/id6747800154?platform=iphone)
 ---
 
 ## Table of Contents
